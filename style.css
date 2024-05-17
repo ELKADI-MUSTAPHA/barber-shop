@@ -727,4 +727,17 @@ width: 500px;
         padding: 0 1rem;
         font-size: 20px;
     }
+    .col.two h1, .features-icon {
+        padding-left: 1rem;
+    }
+    .overlay {
+        height: 50%;
+    }
+    .service-desc {
+        bottom: 1rem;
+    }
+    .title-text h1 {
+        width: 70%;
+        margin: 0 auto;
+    }
 }
