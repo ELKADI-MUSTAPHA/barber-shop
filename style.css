@@ -255,7 +255,12 @@ width: 500px;
     color: black;
     border: 1px solid black;
 }
-
+.bxl-facebook {
+    width: 36px;
+}
+.bxl-youtube {
+    width: 37px;
+}
 .features-text p {
     padding: 0 20px;
     text-align: initial;
